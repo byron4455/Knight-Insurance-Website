@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../images/natalya-zaritskaya-SIOdjcYotms-unsplash\ \(1\).jpg") top center;
+  background: url("../images/natalya-zaritskaya-SIOdjcYotms-unsplash\ \(1\).avif") top center;
   background-size: cover;
   position: relative;
 }
@@ -884,7 +884,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../images/felix-berger-C_J29bp8-4Y-unsplash.avif") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
