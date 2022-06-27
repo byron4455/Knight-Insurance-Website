@@ -4,6 +4,8 @@ Knight Insurance Website
 This website was built for a business owner local to myself. It utilizes HTML, CSS, JavaScript and PHP in the near future. This deployment used AWS CodeStar along with 
 Pipelines to build and deploy the code from this repository. 
 
+Website uses a template by BootsrapMade https://bootstrapmade.com/
+
 ![KnightWebsite](https://user-images.githubusercontent.com/84740306/176028746-1ab24c23-a695-491f-9296-98c7ee693fb5.PNG)
 
 
