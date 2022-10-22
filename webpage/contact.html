@@ -65,7 +65,8 @@
             <button onclick="copyPhone()" type="button" class="btn btn-lg btn-warning btn-block">Copy our number!</button>
             <script>
                 function copyPhone() {
-                    navigator.clipboard.writeText(9192451020);
+                    var phoneNumber = 9192451020;
+                    navigator.clipboard.writeText(phoneNumber);
                     alert("We look forward to speaking with you!")
                 }
             </script>
